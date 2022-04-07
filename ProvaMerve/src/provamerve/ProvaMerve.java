@@ -9,7 +9,11 @@ public class ProvaMerve {
         System.out.println("Print B");
         
         System.out.println("Print C");
-
+        
+        System.out.println("Print D");
+        
+        System.out.println("Print E");
+              
     }
     
 }
